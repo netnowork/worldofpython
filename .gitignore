@@ -1,2 +1,4 @@
 game_pkg/__pycache__*
 game_pkg/__pycache__/*
+__pycache__*
+__pycache__/*
